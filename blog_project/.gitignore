@@ -1,0 +1,8 @@
+venv/
+blog_venv/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+.idea/
+.vscode/
