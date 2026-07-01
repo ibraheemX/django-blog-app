@@ -1,14 +1,15 @@
 # Django Blog App
 
-A simple blog application built with Django.
+A blog application built with Django with authentication and user-based permissions.
 
 ## Features
 
 - Create Posts
+- Read Posts
 - Update Posts
 - Delete Posts
-- Authentication
-- User Permissions
+- User Authentication (Login / Logout)
+- Author-based Permissions
 - Detail Pages
 
 ## Tech Stack
@@ -16,3 +17,7 @@ A simple blog application built with Django.
 - Python
 - Django
 - SQLite
+
+## GitHub Repository
+
+github.com/ibraheemX/django-blog-app
